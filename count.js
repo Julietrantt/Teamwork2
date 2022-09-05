@@ -1,4 +1,4 @@
-function count(){
-    console.log("26")
+function count() {
+  console.log("26");
 }
-count()
+count();
