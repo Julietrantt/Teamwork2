@@ -1,5 +1,7 @@
-function greet() {
-  let a = "hhh";
-  let b = "jjj";
-  console.log(a + b);
+
+function greet(name) {
+  name="Julie"
+  console.log("Hi "+name);
+
 }
+greet()
