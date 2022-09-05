@@ -1,3 +1,4 @@
 function greet() {
-  console.log("společenství entů");
+  let t = "thingsandstuff";
+  console.log("cheer for" + t);
 }
